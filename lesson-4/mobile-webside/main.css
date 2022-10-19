@@ -194,8 +194,7 @@ h2 {
     }
 
     .wrap {
-        width: 50%;
-        /*height: 800px;*/
+        width: 100%;
         border: 10px solid lightsteelblue;
         margin-left: 25%;
         margin-top: 10%;
