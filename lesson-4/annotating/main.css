@@ -1,9 +1,11 @@
-.body{
+body{
     margin: 0;
 }
 
 .wrap{
     width: 96%;
+    margin-top: 2%;
+    margin-left: 2%;
 }
 .medium{
     display: none;
@@ -151,7 +153,9 @@
     }
 
     .wrap{
-        width: 100%;
+        width: 96%;
+        margin-top: 3%;
+        margin-left: 2%;
     }
 
     .medium{
@@ -172,7 +176,7 @@
     .two_nav{
         position: absolute;
         top: 75px;
-        right: 40px;
+        right: 100px;
     }
 
     .container_nav{
@@ -192,6 +196,13 @@
         display: flex;
         justify-content: center;
 
+        position: relative;
+    }
+
+    .one_nav{
+        position: absolute;
+
+        top: -25px;
     }
 
 
